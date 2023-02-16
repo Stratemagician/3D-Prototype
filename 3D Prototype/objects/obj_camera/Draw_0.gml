@@ -6,6 +6,7 @@ gpu_set_cullmode(cull_counterclockwise);
 
 draw_clear(c_black);
 
+camera.update_free();
 camera.apply();
 
 draw_sprite(spr_test, 0, 500, 240);

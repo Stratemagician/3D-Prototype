@@ -3,7 +3,9 @@
   "resourceVersion": "1.6",
   "name": "3D Prototype",
   "resources": [
+    {"id":{"name":"camera_struct","path":"scripts/camera_struct/camera_struct.yy",},"order":0,},
     {"id":{"name":"obj_camera","path":"objects/obj_camera/obj_camera.yy",},"order":0,},
+    {"id":{"name":"spr_test","path":"sprites/spr_test/spr_test.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
